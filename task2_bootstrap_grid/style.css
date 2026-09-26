@@ -1,0 +1,26 @@
+body {
+    min-height: 100vh;
+    background: url("../images/background.jpg") center/cover fixed;
+    font-family: Arial, sans-serif;
+    color: #123f52;
+}
+
+.page-title {
+    color: #0b5d7a;
+    background: rgba(255, 255, 255, 0.84);
+    padding: 18px;
+    border-radius: 22px;
+}
+
+.info-box {
+    padding: 26px;
+    background: rgba(255, 255, 255, 0.86);
+    border: 2px solid rgba(255, 255, 255, 0.9);
+    border-radius: 22px;
+    box-shadow: 0 8px 24px rgba(18, 63, 82, 0.16);
+}
+
+.info-box h2 {
+    color: #2185a8;
+    font-size: 24px;
+}
